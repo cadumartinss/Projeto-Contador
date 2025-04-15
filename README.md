@@ -18,4 +18,5 @@ Este é um projeto simples de contador desenvolvido com HTML, CSS e JavaScript, 
 - JavaScript para a lógica de contagem e interatividade.
 
 👨‍💻 Autor
+
 Carlos Martins
