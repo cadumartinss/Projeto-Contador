@@ -1,4 +1,5 @@
 🧮 Projeto Contador
+
 Este é um projeto simples de contador desenvolvido com HTML, CSS e JavaScript, com o objetivo de praticar e demonstrar conceitos básicos de manipulação do DOM e lógica de programação em JavaScript.
 
 🔍 Funcionalidades
